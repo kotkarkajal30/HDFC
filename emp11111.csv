@@ -1,0 +1,11 @@
+customer_id,first_name,last_name,gender,city,email
+1,Amit,Sharma,M,Pune,amit@gmail.com
+2,Priya,Patil,F,Mumbai,priya@gmail.com
+3,Rahul,Verma,M,Delhi,rahul@gmail.com
+4,Sneha,Kulkarni,F,Pune,sneha@gmail.com
+5,Vikas,Jadhav,M,Nashik,vikas@gmail.com
+6,Neha,Deshmukh,F,Nagpur,neha@gmail.com
+7,Rohit,More,M,Mumbai,rohit@gmail.com
+8,Pooja,Joshi,F,Pune,pooja@gmail.com
+9,Anil,Kale,M,Kolhapur,anil@gmail.com
+10,Kavita,Pawar,F,Satara,kavita@gmail.com
